@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yed-tag-input-demo/static/css/main.02f9c359.chunk.css",
+    "main.js": "/yed-tag-input-demo/static/js/main.dee95d91.chunk.js",
+    "main.js.map": "/yed-tag-input-demo/static/js/main.dee95d91.chunk.js.map",
+    "runtime-main.js": "/yed-tag-input-demo/static/js/runtime-main.f6a1e1e9.js",
+    "runtime-main.js.map": "/yed-tag-input-demo/static/js/runtime-main.f6a1e1e9.js.map",
+    "static/css/2.52bfa62f.chunk.css": "/yed-tag-input-demo/static/css/2.52bfa62f.chunk.css",
+    "static/js/2.2239066b.chunk.js": "/yed-tag-input-demo/static/js/2.2239066b.chunk.js",
+    "static/js/2.2239066b.chunk.js.map": "/yed-tag-input-demo/static/js/2.2239066b.chunk.js.map",
+    "index.html": "/yed-tag-input-demo/index.html",
+    "precache-manifest.3e2278dadd75d6c83ef08e121369bdc9.js": "/yed-tag-input-demo/precache-manifest.3e2278dadd75d6c83ef08e121369bdc9.js",
+    "service-worker.js": "/yed-tag-input-demo/service-worker.js",
+    "static/css/2.52bfa62f.chunk.css.map": "/yed-tag-input-demo/static/css/2.52bfa62f.chunk.css.map",
+    "static/css/main.02f9c359.chunk.css.map": "/yed-tag-input-demo/static/css/main.02f9c359.chunk.css.map",
+    "static/js/2.2239066b.chunk.js.LICENSE.txt": "/yed-tag-input-demo/static/js/2.2239066b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6a1e1e9.js",
+    "static/css/2.52bfa62f.chunk.css",
+    "static/js/2.2239066b.chunk.js",
+    "static/css/main.02f9c359.chunk.css",
+    "static/js/main.dee95d91.chunk.js"
+  ]
+}
